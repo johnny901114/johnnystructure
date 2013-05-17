@@ -1,0 +1,4 @@
+johnnystructure
+===============
+
+own android structure
